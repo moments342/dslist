@@ -17,5 +17,4 @@ JSON
 [JSon com as requisições](https://github.com/user-attachments/files/18562283/DSList.postman_collection.json)
 
 ## Requisitos para rodar
-Java 21
-Postman (Emular as requisições)
+Java 21 e Postman (Emular as requisições)
