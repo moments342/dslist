@@ -4,7 +4,7 @@ Trata-se de uma API que fornece recursos que permitem a exibição de listas ord
 ## Tecnologias utilizadas
 Java
 
-Spring
+SpringBoot
 
 PostgreSQL
 
